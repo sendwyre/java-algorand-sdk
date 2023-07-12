@@ -117,12 +117,12 @@
         <dependency>
           <groupId>org.bouncycastle</groupId>
           <artifactId>bcprov-jdk15to18</artifactId>
-          <version>1.66</version>
+          <version>1.74</version>
         </dependency>
         <dependency>
           <groupId>org.msgpack</groupId>
           <artifactId>jackson-dataformat-msgpack</artifactId>
-          <version>0.8.16</version>
+          <version>0.9.4</version>
         </dependency>
         <dependency>
           <groupId>org.threeten</groupId>
